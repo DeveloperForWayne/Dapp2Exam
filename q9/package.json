@@ -1,0 +1,31 @@
+{
+  "name": "signandverify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .js ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperForWayne/signAndVerify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperForWayne/signAndVerify/issues"
+  },
+  "homepage": "https://github.com/DeveloperForWayne/signAndVerify#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "ethers": "^4.0.27",
+    "verifymessage": "^1.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint": "^5.16.0",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
