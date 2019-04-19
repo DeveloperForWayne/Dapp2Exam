@@ -1,0 +1,2 @@
+export PRIVATE_KEY=391e818eee3d1cba9c1fffc2078302041e0d1b4ce2fdc3ee60dd420fc7c2241e
+export MNEMONIC=weekend foster galaxy brass august ivory cousin shoe outer ensure protect rich
